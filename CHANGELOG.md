@@ -4,6 +4,15 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) · Versioning: 
 
 ---
 
+## [1.10.0](https://github.com/coco-research/coco/compare/v1.9.1...v1.10.0) (2026-10-25)
+
+
+### Features
+
+* **install:** --uninstall removes only what the install recorded and restores originals ([#388](https://github.com/coco-research/coco/issues/388)) ([f99ef89](https://github.com/coco-research/coco/commit/f99ef89b6065408e7c7dc09b100b75e8c561ab80))
+* **install:** JSON plan and manifest of every path the Claude Code installer writes ([#387](https://github.com/coco-research/coco/issues/387)) ([b7599fe](https://github.com/coco-research/coco/commit/b7599fe9bfc63f4c7c7269a5a3f6234bbeffcb30))
+* **workflow:** coco-workflow required check for signed PRD, architecture and plan ([#394](https://github.com/coco-research/coco/issues/394)) ([bb40b58](https://github.com/coco-research/coco/commit/bb40b581e137c6b0f7cf9d9a210e622741406bca))
+
 ## [1.9.1](https://github.com/coco-research/coco/compare/v1.9.0...v1.9.1) (2026-10-23)
 
 
