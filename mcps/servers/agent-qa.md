@@ -3,6 +3,8 @@
 
 **Affiliation:** This listing is submitted on behalf of the agent-qa / vostride maintainers.
 
+The description and setup steps are the maintainers' own. Coco Research does not endorse, maintain or support agent-qa.
+
 ## Installation
 
 **Runtime license:** [FSL-1.1-ALv2](https://github.com/vostride/agent-qa/blob/main/LICENSE.md) (source-available). Each version becomes available under Apache-2.0 two years after its release.
